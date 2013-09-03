@@ -1,6 +1,4 @@
 HelloWorld
 ==========
 
-Node.js - Hello World template
-
-Managed through WebMatrix 3
+Node.js - Hello World template (Managed through WebMatrix 3)
